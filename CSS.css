@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #746d96;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: rgb(36, 13, 88);
+  color: rgb(255, 255, 255);
+}
+
+
+
+div.row {
+  text-align: center;
+}
+
+
+div.benefici {
+  text-align: center;
+}
+
+
+div.benefici1 {
+  text-align: center;
+}
+
+
+div.audios {
+  text-align: center;
+}
+
+
+div.credits {
+  text-align: center;
+}
+
+
+div.raza {
+    text-align: center;
+}
+
+
+div.home {
+  text-align: center;
+}
+
+
+table, th, td {
+  border:1px solid black;
+}
+
+
+div.preferencies {
+  text-align: center;
+}
+
+div.llegendes {
+  text-align: center;
+}
